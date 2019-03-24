@@ -3,10 +3,10 @@
 
 |    Difficulté | Lingotd'or  |Crochet       |  Nombre     |          
 |---------------|-------------|--------------|-------------|
-| Novice  |`0` ![ok](/Images/GoldIngot.png =15x15)   |`0` ![enter image description here](https://vignette.wikia.nocookie.net/elderscrolls/images/a/ac/Lockpick.png/revision/latest/scale-to-width-down/2000?cb=20190108113115 =20x10) |`0` |
-| Apprenti|`0`  ![enter image description here ](https://gamepedia.cursecdn.com/skyrim_gamepedia/7/7e/GoldIngot.png =15x15)|`0`  ![enter image description here](https://vignette.wikia.nocookie.net/elderscrolls/images/a/ac/Lockpick.png/revision/latest/scale-to-width-down/2000?cb=20190108113115 =20x10) |`0` |
-|Adepte   |`0`![enter image description here](https://gamepedia.cursecdn.com/skyrim_gamepedia/7/7e/GoldIngot.png =15x15) |`0`  ![enter image description here](https://vignette.wikia.nocookie.net/elderscrolls/images/a/ac/Lockpick.png/revision/latest/scale-to-width-down/2000?cb=20190108113115 =20x10) |`0` |
-|Expert   |`0`![enter image description here](https://gamepedia.cursecdn.com/skyrim_gamepedia/7/7e/GoldIngot.png =15x15)|`1` ![enter image description here](https://vignette.wikia.nocookie.net/elderscrolls/images/a/ac/Lockpick.png/revision/latest/scale-to-width-down/2000?cb=20190108113115 =20x10)  |`1` |
-|Maitre   |`9`![enter image description here](https://gamepedia.cursecdn.com/skyrim_gamepedia/7/7e/GoldIngot.png =15x15) |`1` ![enter image description here](https://vignette.wikia.nocookie.net/elderscrolls/images/a/ac/Lockpick.png/revision/latest/scale-to-width-down/2000?cb=20190108113115 =20x10)  |`1` |
+| Novice  |`0` <img src="/Images/GoldIngot.png" alt="alt text" width="15" height="15">  |`0` <img src="/Images/Lockpick.png" alt="alt text" width="30" height="15">|`0` |
+| Apprenti|`0` <img src="/Images/GoldIngot.png" alt="alt text" width="15" height="15">  |`0` <img src="/Images/Lockpick.png" alt="alt text" width="30" height="15">|`0` |
+|Adepte   |`0` <img src="/Images/GoldIngot.png" alt="alt text" width="15" height="15">  |`0` <img src="/Images/Lockpick.png" alt="alt text" width="30" height="15">|`0` |
+|Expert   |`0` <img src="/Images/GoldIngot.png" alt="alt text" width="15" height="15">  |`0` <img src="/Images/Lockpick.png" alt="alt text" width="30" height="15">|`0` |
+|Maitre   |`0` <img src="/Images/GoldIngot.png" alt="alt text" width="15" height="15">  |`0` <img src="/Images/Lockpick.png" alt="alt text" width="30" height="15">|`0` |
 
 
