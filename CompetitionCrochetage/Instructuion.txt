@@ -1,0 +1,35 @@
+################################
+MISE EN PLACE DU MOD
+################################
+
+
+
+1-Mettre le fichier "compet-0.5.esp" dans C:\Program Files (x86)\Steam\steamapps\common\Skyrim\Data 
+
+2-Lancer le jeu,dans le launcher cliquer sur "FICHOER DE DONNEES" et cocher la case "compet.esp" puis cliquer sur ok
+ 
+3-Lancer le jeu
+
+4-Une fois dans le menu, ouvrir la console en pressant la touche " ² " en haut a gauche du clavier
+
+5-Entrer coc CompetitionCrochetage
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/!\ ATTENTION 
+Ne jamais faire cette commande en ayant chagé une sauvegarde, vous risquez de coincer votre perso dans la salle XD
+/!\
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+################################
+
+GUIDE et regle pour la Competion
+
+################################
+
+Vous trouverz un tonneau géant au Nord West de la salle ( je vais essayer de changer le point de spawn ou de mettre un curseur dans le futur) dedans vous y trouverez 25 crochets.
+
+Chaques coffre contient des lingots d'or,le nombre de lingots varie en fonction de la difficulté, de plus les coffre maitre et expert donne 1 crochet.
+
+Le but etant de collecter le plus de lingot avec un nombre de crochets limité
+
+Bon entrainement 
